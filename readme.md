@@ -1,3 +1,4 @@
 # Learngit
 - main 1
-- feature1
+- feature 1
+- feature 2
